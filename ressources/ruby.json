@@ -1,0 +1,16 @@
+{
+    "title": "Ruby",
+    "command": "info ruby",
+    "desc": "Le Ruby est une ressource très précieuse et donc rare, il est fréquemment demander lors de création de quelques armures, m'enfin cette pierre rougeâtre n'est pas si simple à obtenir, une telle beauté ce fait rare après tout.",
+    "useTo": [
+        "|L'armure __**T e n e b r i s**__ nécessite la ressource.\n|Pour plus d'informations ``=info tenebris``",
+        "|L'armure __**H y l u s**__ nécessite la ressource.\n|Pour plus d'informations ``=info hylus``",
+        "|L'armure __**V a m p y r**__ nécessite la ressource.\n|Pour plus d'informations ``=info vampyr``",
+        "|L'armure __**I n f e r n o**__ nécessite la ressource.\n|Pour plus d'informations ``=info inferno``"
+    ],
+    "obtention": [
+        "|Le Ruby peut être obtenu après\n|un affrontement avec le boss __**S h y v a**__\n|pour plus d'informations ``=info shyva``",
+        "|De même, il peut être miné dans la tour au\n|palier surnommé __**G o u l a s h**__."
+    ],
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/659d2be7-ccb3-42e6-8f81-6acb515e5aa5/d9jkt7n-b8824b99-b396-41d6-a6d7-5a26e8ccf6fa.jpg/v1/fill/w_1024,h_1365,q_75,strp/infinity_ruby_by_zsoltkosa_d9jkt7n-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM2NSIsInBhdGgiOiJcL2ZcLzY1OWQyYmU3LWNjYjMtNDJlNi04ZjgxLTZhY2I1MTVlNWFhNVwvZDlqa3Q3bi1iODgyNGI5OS1iMzk2LTQxZDYtYTZkNy01YTI2ZThjY2Y2ZmEuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.0OOzhXwSIyq-Kr1Jxux-l-q_-Pr4BaWX7-75gVSUGu0"
+}

@@ -1,0 +1,814 @@
+[
+    {
+        "name": ":Armor: __**Armure**__ ``Acier`` [+2000 :shield:]",
+        "visible": true
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Acier elfique`` [+2600 :shield:]",
+        "visible": true
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Acier elfique magique`` [+3000 :shield:]",
+        "visible": true
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Acier elfique renforcé`` [+2800 :shield:]",
+        "visible": true
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Acier magique`` [+2400 :shield:]",
+        "visible": true
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Acier renforcé`` [+2200 :shield:]",
+        "visible": true
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Cuir`` [+200 :shield:]",
+        "visible": true,
+        "craftable": true,
+        "craft": [
+            { "item": "Matériau :gear: [ Cuir-Vache ]", "amount": 30 },
+            { "item": "Matériau :gear: [ Ferraille ]", "amount": 50 }
+        ]
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Cuir magique`` [+600 :shield:]",
+        "visible": true,
+        "craftable": true,
+        "craft": [
+            { "item": ":Armor: __**Armure**__ ``Cuir renforcé`` [+400 :shield:]", "amount": 1 },
+            { "item": "Matériau :crystal: [ Pierique-Faible ] ``E``", "amount": 30}
+        ]
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Cuir renforcé`` [+400 :shield:]",
+        "visible": true,
+        "craftable": true,
+        "craft": [
+            { "item": "Matériau :gear: [ Cuir-Vache ]", "amount": 45 },
+            { "item": "Matériau :gear: [ Ferraille ]", "amount": 75 },
+            { "item": ":Armor: __**Armure**__ ``Cuir`` [+200 :shield:]", "amount": 1}
+        ]
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Cuivre`` [+800 :shield:]",
+        "visible": true,
+        "craftable": true,
+        "craft": [
+            { "item": "Matériau :gear: [ Cuir-Cheval ]", "amount": 20 },
+            { "item": "Matériau :gear: [ Lingot-Cuivre ]", "amount": 35 },
+            { "item": ":Armor: __**Armure**__ ``Cuir magique`` [+600 :shield:]", "amount": 1 }
+        ]
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Cuivre magique`` [+1200 :shield:]",
+        "visible": true,
+        "craftable": true,
+        "craft": [
+            { "item": ":Armor: __**Armure**__ ``Cuivre renforcé`` [+1000 :shield:]", "amount": 1 },
+            { "item": "Matériau :crystal: [ Pierique-Standard ] ``E``", "amount": 30}
+        ]
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Cuivre renforcé`` [+1000 :shield:]",
+        "visible": true,
+        "craftable": true,
+        "craft": [
+            { "item": "Matériau :gear: [ Cuir-Cheval ]", "amount": 25 },
+            { "item": "Matériau :gear: [ Lingot-Cuivre ]", "amount": 45 },
+            { "item": ":Armor: __**Armure**__ ``Cuivre`` [+800 :shield:]", "amount": 1 }
+        ]
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Divinity`` [+3800 :shield:]",
+        "visible": true
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Dragonite`` [+3200 :shield:]",
+        "visible": true
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Dragonite magique`` [+3600 :shield:]",
+        "visible": true
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Dragonite renforcé`` [+3400 :shield:]",
+        "visible": true
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Fer`` [+1400 :shield:]",
+        "visible": true,
+        "craftable": true,
+        "craft": [
+            { "item": "Matériau :gear: [ Cuir-Minotaur ]", "amount": 30 },
+            { "item": "Matériau :gear: [ Lingot-Fer ]", "amount": 30 },
+            { "item": ":Armor: __**Armure**__ ``Cuivre magique`` [+1200 :shield:]", "amount": 1 }
+        ]
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Fer magique`` [+1800 :shield:]",
+        "visible": true,
+        "craftable": true,
+        "craft": [
+            { "item": ":Armor: __**Armure**__ ``Fer renforcé`` [+1600 :shield:]", "amount": 1 },
+            { "item": "Matériau :crystal: [ Pierique-Supérieure ] ``E``", "amount": 20}
+        ]
+    },
+    {
+        "name": ":Armor: __**Armure**__ ``Fer renforcé`` [+1600 :shield:]",
+        "visible": true,
+        "craftable": true,
+        "craft": [
+            { "item": "Matériau :gear: [ Cuir-Minotaur ]", "amount": 35 },
+            { "item": "Matériau :gear: [ Lingot-Fer ]", "amount": 40 },
+            { "item": ":Armor: __**Armure**__ ``Fer`` [+1400 :shield:]", "amount": 1 }
+        ]
+    },
+    {
+        "name": ":chess_pawn: __**A r t e f a c t**__ ``Divin``",
+        "visible": true
+    },
+    {
+        "name": "[ :key2: ] Clé-Épique :purple_circle:",
+        "visible": true
+    },
+    {
+        "name": "[ :key2: ] Clé-Légendaire :orange_circle:",
+        "visible": true
+    },
+    {
+        "name": "[ :key2: ] Clé-Mythique :yellow_circle:",
+        "visible": true
+    },
+    {
+        "name": "Consommable <:potion2:594938218936533022> [ Potion-Puissance ] ``SS`` +50% :boom:",
+        "visible": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable <:potion2:594938218936533022> [ Potion-Puissance ] ``SS`` +50% :boom:\n\n[ Effet ] : Puissance ~ +50% :boom: de dégâts !\n``L'effet sera dissipé après 2 combats.``"
+    },
+    {
+        "name": "Consommable <:potion2:594938218936533022> [ Potion-Puissance ] ``S`` +40% :boom:",
+        "visible": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable <:potion2:594938218936533022> [ Potion-Puissance ] ``S`` +40% :boom:\n\n[ Effet ] : Puissance ~ +40% :boom: de dégâts !\n``L'effet sera dissipé après 1 combat.``"
+    },
+    {
+        "name": "Consommable <:potion2:594938218936533022> [ Potion-Puissance ] ``A`` +25% :boom:",
+        "price": 2580,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable <:potion2:594938218936533022> [ Potion-Puissance ] ``A`` +25% :boom:\n\n[ Effet ] : Puissance ~ +25% :boom: de dégâts !\n``L'effet sera dissipé après que vous dormirez``"
+    },
+    {
+        "name": "Consommable <:potion2:594938218936533022> [ Potion-Puissance ] ``B`` +20% :boom:",
+        "price": 2010,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable <:potion2:594938218936533022> [ Potion-Puissance ] ``B`` +20% :boom:\n\n[ Effet ] : Puissance ~ +20% :boom: de dégâts !\n``L'effet sera dissipé après que vous dormirez``"
+    },
+    {
+        "name": "Consommable <:potion2:594938218936533022> [ Potion-Puissance ] ``C`` +15% :boom:",
+        "price": 1600,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable <:potion2:594938218936533022> [ Potion-Puissance ] ``C`` +15% :boom:\n\n[ Effet ] : Puissance ~ +15% :boom: de dégâts !\n``L'effet sera dissipé après que vous dormirez``"
+    },
+    {
+        "name": "Consommable <:potion2:594938218936533022> [ Potion-Puissance ] ``D`` +10% :boom:",
+        "price": 1030,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable <:potion2:594938218936533022> [ Potion-Puissance ] ``D`` +10% :boom:\n\n[ Effet ] : Puissance ~ +10% :boom: de dégâts !\n``L'effet sera dissipé après que vous dormirez``"
+    },
+    {
+        "name": "Consommable <:potion2:594938218936533022> [ Potion-Puissance ] ``E`` +5% :boom:",
+        "price": 740,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable <:potion2:594938218936533022> [ Potion-Puissance ] ``E`` +5% :boom:\n\n[ Effet ] : Puissance ~ +5% :boom: de dégâts !\n``L'effet sera dissipé après que vous dormirez``"
+    },
+    {
+        "name": "Consommable :test_tube: [ Potion-Santé ] ``SS`` +1200 :heart_exclamation:",
+        "visible": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :test_tube: [ Potion-Santé ] ``SS`` +1200 :heart_exclamation:"
+    },
+    {
+        "name": "Consommable :test_tube: [ Potion-Santé ] ``S`` +1000 :heart_exclamation:",
+        "visible": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :test_tube: [ Potion-Santé ] ``S`` +1000 :heart_exclamation:"
+    },
+    {
+        "name": "Consommable :test_tube: [ Potion-Santé ] ``A`` +800 :heart_exclamation:",
+        "price": 1705,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :test_tube: [ Potion-Santé ] ``A`` +800 :heart_exclamation:"
+    },
+    {
+        "name": "Consommable :test_tube: [ Potion-Santé ] ``B`` +600 :heart_exclamation:",
+        "price": 1460,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :test_tube: [ Potion-Santé ] ``B`` +600 :heart_exclamation:"
+    },
+    {
+        "name": "Consommable :test_tube: [ Potion-Santé ] ``C`` +400 :heart_exclamation:",
+        "price": 1060,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :test_tube: [ Potion-Santé ] ``C`` +400 :heart_exclamation:"
+    },
+    {
+        "name": "Consommable :test_tube: [ Potion-Santé ] ``D`` +200 :heart_exclamation:",
+        "price": 700,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :test_tube: [ Potion-Santé ] ``D`` +200 :heart_exclamation:"
+    },
+    {
+        "name": "Consommable :test_tube: [ Potion-Santé ] ``E`` +100 :heart_exclamation:",
+        "price": 560,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :test_tube: [ Potion-Santé ] ``E`` +100 :heart_exclamation:"
+    },
+    {
+        "name": "Consommable :potion1: [Potion-Résistance ] ``SS`` +50% :shield:",
+        "visible": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :potion1: [Potion-Résistance ] ``SS`` +50% :shield:\n\n[ Effet ] : Résistance ~ +50% :shield: de résistance !\n``L'effet sera dissipé après 4 combats.``"
+    },
+    {
+        "name": "Consommable :potion1: [Potion-Résistance ] ``S`` +40% :shield:",
+        "visible": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :potion1: [Potion-Résistance ] ``S`` +40% :shield:\n\n[ Effet ] : Résistance ~ +40% :shield: de résistance !\n``L'effet sera dissipé après 4 combats.``"
+    },
+    {
+        "name": "Consommable :potion1: [Potion-Résistance ] ``A`` +25% :shield:",
+        "price": 1915,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :potion1: [Potion-Résistance ] ``A`` +25% :shield:\n\n[ Effet ] : Résistance ~ +25% :shield: de résistance !\n``L'effet sera dissipé après 2 combats.``"
+    },
+    {
+        "name": "Consommable :potion1: [Potion-Résistance ] ``B`` +20% :shield:",
+        "price": 1915,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :potion1: [Potion-Résistance ] ``B`` +20% :shield:\n\n[ Effet ] : Résistance ~ +20% :shield: de résistance !\n``L'effet sera dissipé après 2 combats.``"
+    },
+    {
+        "name": "Consommable :potion1: [Potion-Résistance ] ``C`` +15% :shield:",
+        "price": 1915,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :potion1: [Potion-Résistance ] ``C`` +15% :shield:\n\n[ Effet ] : Résistance ~ +15% :shield: de résistance !\n``L'effet sera dissipé après 2 combats.``"
+    },
+    {
+        "name": "Consommable :potion1: [Potion-Résistance ] ``D`` +10% :shield:",
+        "price": 1915,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :potion1: [Potion-Résistance ] ``D`` +10% :shield:\n\n[ Effet ] : Résistance ~ +10% :shield: de résistance !\n``L'effet sera dissipé après 2 combats.``"
+    },
+    {
+        "name": "Consommable :potion1: [Potion-Résistance ] ``E`` +5% :shield:",
+        "price": 1915,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :potion1: [Potion-Résistance ] ``E`` +5% :shield:\n\n[ Effet ] : Résistance ~ +5% :shield: de résistance !\n``L'effet sera dissipé après 2 combats.``"
+    },
+    {
+        "name": "Consommable :petri_dish: [ Potion-Vengeance ] ``SS`` +50% :hotsprings:",
+        "visible": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :petri_dish: [ Potion-Vengeance ] ``SS`` +50% :hotsprings:\n\n[ Effet ] : Vengeance ~ +50% :hotsprings: dégâts renvoyés !\n``L'effet sera dissipé après 3 combats.``"
+    },
+    {
+        "name": "Consommable :petri_dish: [ Potion-Vengeance ] ``S`` +40% :hotsprings:",
+        "visible": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :petri_dish: [ Potion-Vengeance ] ``S`` +40% :hotsprings:\n\n[ Effet ] : Vengeance ~ +40% :hotsprings: dégâts renvoyés !\n``L'effet sera dissipé après 2 combats.``"
+    },
+    {
+        "name": "Consommable :petri_dish: [ Potion-Vengeance ] ``A`` +25% :hotsprings:",
+        "price": 2105,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :petri_dish: [ Potion-Vengeance ] ``A`` +25% :hotsprings:\n\n[ Effet ] : Vengeance ~ +25% :hotsprings: dégâts renvoyés !\n``L'effet sera dissipé après 1 combat.``"
+    },
+    {
+        "name": "Consommable :petri_dish: [ Potion-Vengeance ] ``B`` +20% :hotsprings:",
+        "price": 1800,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :petri_dish: [ Potion-Vengeance ] ``B`` +20% :hotsprings:\n\n[ Effet ] : Vengeance ~ +20% :hotsprings: dégâts renvoyés !\n``L'effet sera dissipé après 1 combat.``"
+    },
+    {
+        "name": "Consommable :petri_dish: [ Potion-Vengeance ] ``C`` +15% :hotsprings:",
+        "price": 1350,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :petri_dish: [ Potion-Vengeance ] ``C`` +15% :hotsprings:\n\n[ Effet ] : Vengeance ~ +15% :hotsprings: dégâts renvoyés !\n``L'effet sera dissipé après 1 combat.``"
+    },
+    {
+        "name": "Consommable :petri_dish: [Potion-Vengeance ] ``D`` 10% :hotsprings:",
+        "price": 840,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :petri_dish: [Potion-Vengeance ] ``D`` 10% :hotsprings:\n\n[ Effet ] : Vengeance ~ +10% :hotsprings: dégâts renvoyés !\n``L'effet sera dissipé après 1 combat.``"
+    },
+    {
+        "name": "Consommable :petri_dish: [Potion-Vengeance ] ``E`` 5% :hotsprings:",
+        "price": 650,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :petri_dish: [Potion-Vengeance ] ``E`` 5% :hotsprings:\n\n[ Effet ] : Vengeance ~ 5% :hotsprings: dégâts renvoyés !\n``L'effet sera dissipé après 1 combat.``"
+    },
+    {
+        "name": "[ :key2: ] Clé-Mythique :yellow_circle:",
+        "visible": true,
+        "roleToGiveID": "695377692006285411",
+        "answer": "__**Félicitations !**__\nVous pouvez ouvrir un coffre Mythique !\n``=coffre mythique``"
+    },
+    {
+        "name": "[ :key2: ] Clé-Épique :purple_circle:",
+        "visible": true,
+        "roleToGiveID": "695377185183236116",
+        "answer": "__**Félicitations !**__\nVous pouvez ouvrir un coffre Épique !\n``=coffre épique``"
+    },
+    {
+        "name": "[ :key2: ] Clé-Légendaire :orange_circle:",
+        "visible": true,
+        "roleToGiveID": "695377311859474522",
+        "answer": "__**Félicitations !**__\nVous pouvez ouvrir un coffre Légendaire !\n``=coffre légendaire``"
+    },
+    {
+        "name": ":green_book: [ Livre T1 ]",
+        "visible": true,
+        "roleToGiveID": "695377006686240998",
+        "answer": "__**Félicitations !**__\nMaintenant, il vous suffit de faire :\n``=Lecture T1``"
+    },
+    {
+        "name": ":blue_book: [ Livre T2 ]",
+        "visible": true,
+        "roleToGiveID": "695378277673467945",
+        "answer": "__**Félicitations !**__\nMaintenant, il vous suffit de faire :\n``=Lecture T2``"
+    },
+    {
+        "name": ":orange_book: [ Livre T3 ]",
+        "visible": true,
+        "roleToGiveID": "695378287995650372",
+        "answer": "__**Félicitations !**__\nMaintenant, il vous suffit de faire :\n``=Lecture T3``"
+    },
+    {
+        "name": "Matériau :gear: [ Canine ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Carapace ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Coeur de Gobelink ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Coeur de Kitsu ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Coeur de Yian-Rata ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Crâne d'Undead ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Cuir-Dragon ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Dague de SalterGob ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Dard-Empoisonné ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Écaille ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Fourrure ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Griffe ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Lingot-Divin ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Oeil ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Os ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Perle-Rougeâtre ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Plume ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Queue ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Sang de Loupgarou ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Sceptre magique ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Dague de Saltergob ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Sécrétion ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Tissu ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Venin ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Mandibule ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Ferraille ]",
+        "price": 40,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Charbon ]",
+        "price": 45,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Cuir-Vache ]",
+        "price": 60,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Cuir-Cochon ]",
+        "price": 100,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Lingot-Cuivre ]",
+        "price": 130,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Cuir-Cheval ]",
+        "price": 140,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Lingot-Fer ]",
+        "price": 150,
+        "purchasable": true,
+        "craftable": true,
+        "craft": [
+            { "item": "Matériau :gear: [ Pépite-Fer ]", "amount": 10 }
+        ],
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Lingot-Argent ]",
+        "price": 170,
+        "purchasable": true,
+        "craftable": true,
+        "craft": [
+            { "item": "Matériau :gear: [ Pépite-Argent ]", "amount": 10 }
+        ],
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Cuir-Minotaur ]",
+        "price": 180,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Cuir-Enchanté ]",
+        "price": 220,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Lingot-Or ]",
+        "price": 230,
+        "purchasable": true,
+        "craftable": true,
+        "craft": [
+            { "item": "Matériau :gear: [ Pépite-Or ]", "amount": 10 }
+        ],
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Lingot-Acier Elfique ]",
+        "price": 260,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Lingot-Or Enchanté ]",
+        "price": 310,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Pépite-Or ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Pépite-Argent ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :gear: [ Pépite-Fer ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": ":adhesive_bandage: [ Bandage ]",
+        "description": "Il permet de stopper vos saignements ou ceux d'autrui.",
+        "price": 200,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser l'item suivant :\n:adhesive_bandage: [ Bandage ]\nVos saignements ou celui de votre cible s'estompent instantanément."
+    },
+    {
+        "name": "Matériau :thread: [ Fil-Divin ] ``E``",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :thread: [ Fil-Héroïque ] ``E``",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :thread: [ Fil-Faible ] ``E``",
+        "price": 160,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :thread: [ Fil-Standard ] ``E``",
+        "price": 240,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :thread: [ Fil-Supérieur ] ``E``",
+        "price": 360,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :thread: [ Fil-Noble ] ``E``",
+        "price": 480,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :thread: [ Fil-Royal ] ``E``",
+        "price": 650,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :crystal: [ Pierique-Divine ] ``E``",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :crystal: [ Pierique-Héroïque ] ``E``",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :crystal: [ Pierique-Faible ] ``E``",
+        "price": 100,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :crystal: [ Pierique-Standard ] ``E``",
+        "price": 210,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :crystal: [ Pierique-Supérieure ] ``E``",
+        "price": 380,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :crystal: [ Pierique-Noble ] ``E``",
+        "price": 700,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Matériau :crystal: [ Pierique-Royale ] ``E``",
+        "price": 1100,
+        "purchasable": true,
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": ":necklace: [ __**Owl Goan Invincibility**__ ]",
+        "description": "``Recharge 2 Journées [ Inrp ]``\n> Invincibilité attaque physique.\n``3 Tours, après activation.``\n***Un item premium. Son obtention est unique durant une enchère, aucune autre réplique n'existe.***",
+        "visible": true
+    },
+    {
+        "name": ":necklace: __**Pendentif**__ ``Imperium`` [ +10% :crossed_swords: ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": ":necklace: __**Pendentif**__ ``Statera`` [ +15% Stats ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": ":necklace: __**Pendentif**__ ``Vitae`` [ +5% :heart_exclamation: ]",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Consommable :beer: [ Bière ] ``E`` +20 :heart_exclamation:",
+        "price": 30,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :beer: [ Bière ] ``E`` +20 :heart_exclamation:\n+20 :heart_exclamation: Vous sont ajouter."
+    },
+    {
+        "name": "Consommable :bread: [ Pain ] ``E`` +35 :heart_exclamation:",
+        "price": 35,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :bread: [ Pain ] ``E`` +35 :heart_exclamation:\n+35 :heart_exclamation: Vous sont ajouter."
+    },
+    {
+        "name": "Consommable :stew: [ Soupe :ice_cube: ] ``E`` +50 :heart_exclamation:",
+        "price": 150,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :stew: [ Soupe :ice_cube: ] ``E`` +50 :heart_exclamation:\n+50 :heart_exclamation: Vous sont ajouter."
+    },
+    {
+        "name": "Consommable :stew: [ Soupe :ice_cube: ] ``D`` +75 :heart_exclamation:",
+        "price": 200,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :stew: [ Soupe :ice_cube: ] ``D`` +75 :heart_exclamation:\n+75 :heart_exclamation: Vous sont ajouter."
+    },
+    {
+        "name": "Consommable :stew: [ Soupe :ice_cube: ] ``C`` +100 :heart_exclamation:",
+        "price": 250,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :stew: [ Soupe :ice_cube: ] ``C`` +100 :heart_exclamation:\n+100 :heart_exclamation: Vous sont ajouter."
+    },
+    {
+        "name": "Consommable :wine_glass: [ Pandora ] S +60 :heart_exclamation:",
+        "price": 640,
+        "visible": true,
+        "purchasable": true,
+        "answer": "**U l y z i u m**\n\n__Confirmation.__\nVous venez d'utiliser le consommable suivant :\nConsommable :wine_glass: [ Pandora ] S +60 :heart_exclamation:\n+60 :heart_exclamation: Vous sont ajouter."
+    },
+    {
+        "name": "[ __**Fragments Aetheir**__ ]",
+        "description": "10 Fragments de ceux-cipermettent d'obtenir une fausse copie de l'arme divine d'Alynita !\n\n**B O N N E - C H A N C E**\n``Item Extrêmement Rare``",
+        "visible": true,
+        "answer": "**Used- . .**"
+    },
+    {
+        "name": "Consommable :candy:  [ Friandise ] ``E`` +5 :sparkles:",
+        "description": "Cette friandise permet à votre compagnon ou familier de lui faire gagner de l'XP.",
+        "price": 500,
+        "purchasable": true,
+        "visible": true,
+        "xp": 5
+    },
+    {
+        "name": "Consommable :candy:  [ Friandise ] ``D`` +10 :sparkles:",
+        "description": "Cette friandise permet à votre compagnon ou familier de lui faire gagner de l'XP.",
+        "price": 950,
+        "purchasable": true,
+        "visible": true,
+        "xp": 10
+    },
+    {
+        "name": "Consommable :candy:  [ Friandise ] ``C`` +25 :sparkles:",
+        "description": "Cette friandise permet à votre compagnon ou familier de lui faire gagner de l'XP.",
+        "price": 2750,
+        "purchasable": true,
+        "visible": true,
+        "xp": 25
+    },
+    {
+        "name": "Consommable :candy:  [ Friandise ] ``B`` +50 :sparkles:",
+        "description": "Cette friandise permet à votre compagnon ou familier de lui faire gagner de l'XP.",
+        "price": 4500,
+        "purchasable": true,
+        "visible": true,
+        "xp": 50
+    },
+    {
+        "name": "Consommable :candy:  [ Friandise ] ``A`` +100 :sparkles:",
+        "description": "Cette friandise permet à votre compagnon ou familier de lui faire gagner de l'XP.",
+        "price": 9000,
+        "purchasable": true,
+        "visible": true,
+        "xp": 100
+    },
+    {
+        "name": "__**Crytal Ancestrale**__",
+        "visible": true,
+        "answer": "**Used- . .**"
+    }
+]

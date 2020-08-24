@@ -1,0 +1,22 @@
+[
+	{ 
+		"title": "croc blanc",
+		"prob": 0
+	},
+	{ 
+		"title": "dolcyus",
+		"prob": 0.3
+	},
+	{ 
+		"title": "artik",
+		"prob": 0.6
+	},
+	{ 
+		"title": "croc glacier",
+		"prob": 0.8
+	},
+	{ 
+		"title": "dangyr",
+		"prob": 0.95
+	}
+]

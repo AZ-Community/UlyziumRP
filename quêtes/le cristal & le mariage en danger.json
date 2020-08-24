@@ -1,0 +1,18 @@
+{
+    "title": "Le cristal & le mariage en danger",
+    "command": "quête 5",
+    "desc" : "Alors que vous étiez en train de marcher tranquillement, une vieille personne passant par là vous arrête le regard inquiet, ça devait faire plusieurs minutes qu'il faisait des aller-retour un peu partout cherchant une solution à son problème. Mais quand il vous verra, il vous sautera presque dessus, les larmes aux yeux, avant de déballer son sac auprès de vous, un aventurier passant par ici comme par hasard.",
+    "dialog": [
+        "Oh, toi ! Oui toi, tu m'as vu je le sais alors approche et écoute moi bien, petit(e) ! Il y a de cela une semaine, ma future belle fille a perdu le cristal présent sur sa bague de fiançaille, mon fils compte lui demander sa main pour l'épouser dans peu de temps. Si il remarque le cristal non présent, le connaissant il mettra des hypothèses, je suis sûr et certain qu'il va penser qu'elle l'a vendu et qu'elle le trompe avec un autre!",
+        "Aide moi à retrouver ce Fichu rubis de cette bague au sinon, ce sera la fin de cette si belle relation entre eux deux ! Ma belle fille, Yasmilla, se promenait Seule. Soudainement trente monstres ont eu l'impolitesse de l'attaquer, elle a fait tomber le cristal de sa bague et un des monstres l'a volé, les trentes monstres était selon elle, de types Anarchy. Dépêche toi de les tuer tous et de ramener ce si précieux cristal avant qu'il ne soit trop tard. Je t'en prie aventurier, ne t'inquiète pas pas, je te donnerais une récompense en échange de celui-ci, je te le promets !"
+    ],
+    "requires": [
+        { "title":"Tuer des monstres de Wesey", "icon":":skull_crossbones:" ,"number":30 }
+    ],
+    "picture": "https://giphy.com/gifs/design-3d-daily-lz7Dtl4j9flnIngNXK",
+    "rewards": [
+        "1 clé mythique",
+        "6000 Zium"
+    ],
+    "choice":false
+}

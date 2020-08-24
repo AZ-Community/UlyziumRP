@@ -1,0 +1,16 @@
+{
+    "title":"M y t h i q u e",
+    "rewards":[
+        {"title":"[ ``Zium-Pure`` ]", "amount":3, "prob":0},
+        {"title":"Consommable :potion2: [ Potion-Puissance ] ``S`` +40% :boom:", "amount":2, "prob":0.14},
+        {"title":"Consommable :potion1: [Potion-Résistance ] ``S`` +40% :shield:", "amount":2, "prob":0.28},
+        {"title":"Consommable :test_tube: [ Potion-Santé ] ``S`` +1000 :heart_exclamation:", "amount":2, "prob":0.42},
+        {"title":"Consommable :petri_dish: [ Potion-Vengeance ] ``S`` +40% :hotsprings:", "amount":2, "prob":0.56},
+        {"title":":orange_book: [ Livre T3 ]", "amount":1, "prob":0.7},
+        {"title":":Armor: __**Armure**__ ``Acier`` [+2000 :shield:]", "amount":1, "prob":0.78},
+        {"title":"[ :key2: ] Clé-Légendaire :orange_circle:", "amount":3, "prob":0.86},
+        {"title":"[ :key2: ] Clé-Mythique :yellow_circle:", "amount":2, "prob":0.92},
+        {"title":":chess_pawn: __**A r t e f a c t**__ ``Divin``", "amount":1, "prob":0.96},
+        {"title":"[ ``Item Premium`` ]", "amount":1, "prob":0.98}
+    ]
+}

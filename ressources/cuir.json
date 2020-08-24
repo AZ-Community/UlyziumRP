@@ -1,0 +1,14 @@
+{
+    "title": "Cuir",
+    "command": "info cuir",
+    "desc": "Le Cuir est l'un des matériaux les plus communs de ce monde, il est plutôt résistant et il est demandé, directement ou indirectement, dans pratiquement tous les schémas de construction d'armure.",
+    "useTo": [
+        "|L'armure __**B e l t r o n**__ nécessite la ressource.\n|Pour plus d'informations ``=info beltron``",
+        "|L'armure __**E l y s i a n**__ nécessite la ressource.\n|Pour plus d'informations ``=info elysian``",
+        "|L'armure __**I g n y t**__ nécessite la ressource.\n|Pour plus d'informations ``=info ignyt``"
+    ],
+    "obtention": [
+        "|Le Cuir peut être obtenu après\n|un affrontement avec le boss __**S h y v a**__\n|pour plus d'informations ``=info shyva``"
+    ],
+    "image": "https://cdn0.iconfinder.com/data/icons/sewing-basic-lineal-color/512/36_Leather-512.png"
+}

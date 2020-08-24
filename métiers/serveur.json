@@ -1,0 +1,10 @@
+{
+    "title":"Serveurs",
+    "command":"info serveur",
+    "desc":"Les serveurs sont ceux en charge de présenter les menus ou du moins la carte du menu à la clientèle. Ils sont chargés ensuite d'apporter les commandes aux clients tout en récupérant les Ziums de ceux-ci.\nIls assurent également la préparation et la tenue des tables. Durant les temps libres, ils ont la charge d'entretenir l'entretien de la salle.",
+    "pic":"https://cdn.discordapp.com/attachments/591471293530898458/614939688381317143/DXI13clUQAAK2Kk.jpg",
+    "détails":[
+        {"title":"P r é r e q u i s :","desc":"Pour avoir la chance de rejoindre les rangs des serveurs, il vous faudra respecter quelques conditions, comme avoir un physique avantageux, posséder un sourire délicat & une aptitude convenable & agréable, une bonne humeur et être aimable."},
+        {"title":"S a l a i r e s :","desc":"En effet, le salaire des serveurs dépendra du nombre de bières ou autres vendues durant la soirée. Le nombre de zium empochés après la fin de votre service sera diviser par 2. Bien sûr, vous aurez la possibilitée d'user de votre charme pour réussir à doubler votre bénéfice. Il faudra simplement faire la commande suivante ``=charme``."}
+    ]
+}

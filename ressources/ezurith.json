@@ -1,0 +1,12 @@
+{
+    "title": "Ezurith",
+    "command": "info ezurith",
+    "desc": "C'est un minerais commun, il est reconnaissable à sa couleur verdâtre et à sa légère opacité. Elle n'est pas très simple à obtenir, ne pouvant se trouver que sur un boss de donjon.",
+    "useTo": [
+        "|L'armure __**E l y s i a n**__ nécessite la ressource.\n|Pour plus d'informations ``=info elysian``"
+    ],
+    "obtention": [
+        "|L'Ezurith peut être obtenu après un affrontement\n|contre le boss __**C o l o s s u s**__ pour plus\n|d'information ``=info colossus``"
+    ],
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/659d2be7-ccb3-42e6-8f81-6acb515e5aa5/d9ed3pv-4bc58d24-cae2-4b87-81ea-0ec289c31f76.jpg/v1/fill/w_900,h_1286,q_75,strp/fluorite_001_by_zsoltkosa_d9ed3pv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4NiIsInBhdGgiOiJcL2ZcLzY1OWQyYmU3LWNjYjMtNDJlNi04ZjgxLTZhY2I1MTVlNWFhNVwvZDllZDNwdi00YmM1OGQyNC1jYWUyLTRiODctODFlYS0wZWMyODljMzFmNzYuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.PjOwGDc0mrhbm91nHAs73DPSsd-SQlPimO9W6nC6qHo"
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Le plat d'anniversaire",
+    "command": "quête 6",
+    "desc" : "Alors que tu marchais tranquillement, ton nez fût titillé par une délicate odeur qui contrôla tes jambes jusqu'à t’amener à une maison, où deux jeunes femmes semblait préparer à manger. Les deux femmes attisait très légèrement ta curiosité alors tu décida de rester quelques secondes sans rien dire jusqu'à ce que l'une d'elle t'adresse la parole.",
+    "dialog": [
+        "Oh nous avons un visiteur! C'est l'odeur de la nourriture qui t'attire? Je m'en doutais, Emilie ma p'tite soeur est une excellente cuisinière. Approche et goutte un peu ce délice ! C'est bon, hein? Comment ça il manque quelques choses?! Oh, c'est vrai que le plat pourrait être bien meilleure qu'il ne l'est déjà, qu'en penses-tu soeurette?",
+        "Bon, c'est décidé ! Laisse moi sortir le livre de cuisine pour te dire les ingrédients à rapporter. Oh, tu es un curieux toi! Pourquoi nous semblons faire la fête? Car c'est le cas pardi, c'est mon anniversaire, j'ai 22 ans si ça t'intéresse !\nJ'avoue que tu es pas mal, si tu es à la recherche d’une copine, je suis là hein. **clin d'oeil -clin d'oeil.**",
+        "Bon bref, nous sommes pas là pour draguer, tu vas devoir me ramener tout les ingrédients sur ce papier, d'ailleurs j'ai besoin de bières. Tu as intérêt à te dépêcher, j'aimerais avoir les ingrédients au plus vite pour finir la préparation de ce repas, je te récompensera ne t'inquiète pas, et ce n'est pas moi le cadeau, p'tit (e) pervers(e)! Je sais c'est dommage mais bon, ne fait pas la tête.Fais moi confiance, tu ne seras pas déçu !"
+    ],
+    "requires": [
+        { "title":"Bière", "icon":":beer:" ,"number":10 },
+        { "title":"Morceaux de fromage", "icon":":cheese:" ,"number":7 },
+        { "title":"Morceaux de pain", "icon":":bread:" ,"number":8 },
+        { "title":"Tête de Gardemer", "icon":":gear:" ,"number":1 },
+        { "title":"Patte de Crawler", "icon":":gear:" ,"number":1 }
+    ],
+    "picture": "http://file3.instiz.net/data/file3/2018/06/02/f/4/c/f4c43c2dec41b8769c2030172f4e858c.gif",
+    "rewards": [
+        "3 Tickets de réduction des prix à l'auberge [50% pendant 24H]",
+        "4000 Zium"
+    ],
+    "choice":false
+}

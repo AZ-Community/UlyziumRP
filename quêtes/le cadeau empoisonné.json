@@ -1,0 +1,21 @@
+{
+    "title": "Le cadeau empoisonné",
+    "command": "quête 4",
+    "desc" : "Tout se passait bien, votre regard s'était perdu sur un couple, s'embrassant jusqu'à ce qu'une fille, les larmes aux yeux, s'approche du petit couple. Elle gifla violemment l'homme, il venait de tromper sa petite copine avec une autre. Suite à cette scène, vous vous en allez la boule au ventre jusqu'à ce qu'une femme s'approche de vous, sanglotante. Vous la regardez de plus près, jusqu'à reconnaître la femme qui venait de rompre avec son copain. Vous lui souriez un peu gêné en la reconnaissant, puis elle décide d'enfin parler.",
+    "dialog": [
+        "Tu as vu la scène de tout à l'heure, n'est-ce pas ? Attends...Permets-moi de m'asseoir...voilà, c'est mieux. Tu peux prendre une chaise toi aussi, hein. Bon, ça faisait deux ans que lui et moi on sortait ensemble. Et depuis 3 mois, il semblait distant, il partait tout le temps sans rien me dire, alors...J'ai décidé de le suivre, jusqu'à cette endroit, je suis restée figée quelques secondes en le voyant embrasser cette fille...Il semble vraiment être amoureux d'elle...",
+        "Tant mieux pour lui, je veux tout de même lui laisser un 'cadeau' de ma part. Toi qui a décidé de m'écouter jusqu'au bout, tu vas m'aider à lui concocter un poison ! Heu, je veux dire...Une boisson !",
+        "Ahah, une boisson pour lui et sa copine.\nJ'ai accepté le fait qu'il aime une autre fille alors, ils vont être comme Roméo et Juliette, ils vont mourir ensemble ! Heu, non je veux dire...Bon, laisse moi réfléchir aux ingrédients. Je suis sûre que ces quelques ingrédients se marient très bien ensemble, ne te donne pas la peine de les goûter, je t'assure que ça n'en vaut pas la peine, ils vont apprécier jusqu'à en mourir !"
+    ],
+    "requires": [
+        { "title":"Dents de Requyn", "icon":":gear:" ,"number":2 },
+        { "title":"Fioles de poison paralysant de phyllis supérieur", "icon":":gear:" ,"number":2 },
+        { "title":"Piques d'Emyr", "icon":":gear:" ,"number":4 }
+    ],
+    "picture": "https://cdna.artstation.com/p/assets/images/images/012/947/682/original/jonathan-dodd-poison-x.gif?1537313568",
+    "rewards": [
+        "1 clé légendaire",
+        "5 Potions de soin XXL [+600 HP]"
+    ],
+    "choice":false
+}

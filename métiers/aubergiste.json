@@ -1,0 +1,10 @@
+{
+    "title":"Aubergistes",
+    "command":"info aubergiste",
+    "desc":"Ces derniers ne sont pas nombreux, car ils sont les gérants des institutions où l'ont vend plus communément des bières aux fêtards & aventuriers ! Ils gèrent également les serveurs souhaitant être aux ordres de ces derniers, comme leur donner les commandes des clients. Les aubergistes peuvent être au maximum de 2 dans un même établissement. comme une auberge ou même une taverne, ils gèrent également les prix de ce qu'ils vendent, ils ont donc le droit d'augmenter les prix a leur profit, ou les baisser afin d'attirer des clients.",
+    "pic":"http://www.alh-ho.fr/anime/death_parade/images/death_parade_1.jpg",
+    "détails":[
+        {"title":"P r é r e q u i s :", "desc":"S'être fait recruter par un autre aubergiste, ou par le maire ``[ Modo ]``, ils doivent savoir faire à manger, avoir un sourire d'enfer, savoir surtout bien servir les bières, il faut être attentif à chaque désir de votre clientèle & aussi savoir gérer un service ou du moins une équipe, et par dessus tout, l'argent, pour ne pas faire faillite & donc avoir une connaissance au niveau du management."},
+        {"title":"S a l a i r e :", "desc":"L'aubergiste récupère la grande partie des profits fait durant la soirée, ces derniers sont égaux à la moitié des bières vendues [ l'autre étant pour les serveurs ], et tout autre chose vendue, comme la nourriture, ils doivent aussi retirer un quart de ce qu'ils ont gagné dans le loyer de leur bâtiment, pour ce qui est des profits précis, cela dépendra du prix de ventes de la nourriture, ils peuvent aussi gagner de l'argent sur les chambres de loués, argent qui sera valable comme un bonus, mais séparé entre toute l'équipe de l'établissement [Donc entre les deux gérant(e) , et les serveurs]"}
+    ]
+}

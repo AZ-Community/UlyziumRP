@@ -1,0 +1,46 @@
+[
+	{ 
+		"title": "ailreux",
+		"prob": 0
+	},
+	{ 
+		"title": "anthys",
+		"prob": 0.09
+	},
+	{ 
+		"title": "bandit",
+		"prob": 0.18
+	},
+	{ 
+		"title": "crawler",
+		"prob": 0.27
+	},
+	{ 
+		"title": "lourps",
+		"prob": 0.36
+	},
+	{ 
+		"title": "murdur",
+		"prob": 0.45
+	},
+	{ 
+		"title": "naga",
+		"prob": 0.54
+	},
+	{ 
+		"title": "ragnark",
+		"prob": 0.63
+	},
+	{ 
+		"title": "scrypion",
+		"prob": 0.72
+	},
+	{ 
+		"title": "serpensad",
+		"prob": 0.82
+	},
+	{ 
+		"title": "terraterre",
+		"prob": 0.91
+	}
+]

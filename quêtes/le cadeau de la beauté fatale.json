@@ -1,0 +1,22 @@
+{
+    "title": "Le cadeau de la beauté fatale",
+    "command": "quête 3",
+    "desc" : "Un peu plus loin de vous se trouvait un père jetant une tonne d'objet, d'ailleurs un vieux bijoux faillit vous frôler la joue. Heureusement, la chance vous sourit et le bijou tomba non loin de vous, vous avez hésité à voler cet objet mais comme un bon citoyen vous le ramassez et le déposer près de l'homme. Alors que vous étiez prêt à vous en aller, il vous tire le bras affolé.",
+    "dialog": [
+        "Wow, quel imprudent je fais ! N'importe qui aurait pu voler ce bijou mais en réalité il ne vaut rien, tu aurais pu le revendre pour un zium, mais bref ! Je te remercie d'avoir été honnête et de me le ramener, j'ai besoin de ton aide. Je t'en prie, pose-toi sur ce tabouret et écoute mon récit, ce ne sera pas bien long.",
+        "Bon, en fait...Comme tu peux le voir, je suis assez vieux, hein. Mon fils va bientôt devoir me remplacer et prendre ma place de gérant de mon magasin. Mais j'aimerais une descendance, j'ai remarqué qu'une femme semblait lui plaire, oh regarde c'est cette femme ! Une beauté fatale, alala. Pour qu'il puisse conquérir son cœur, il lui faudra un petit coup de main, tu ne penses pas ?",
+        "Oh, toi aussi tu trouves qu'elle est belle ? Tu vas l'aider à conquérir son cœur dans ce cas, je pourrai ensuite reposer en paix, sans inquiétude. Je sais que cette femme est faite pour lui.",
+        "Bon, ta mission est de trouver ces quelques matériaux pour concocter un magnifique collier, cette femme sera encore plus magnifique avec un bijou décorant son cou. Bon, trêve de bavardage, pour trouver ce que je veux, tu vas devoir me ramener cette liste, je te fais confiance, ce n'est pas bien difficile. J'espère que tu me ramèneras ceci au plus vite, ne t'inquiète pas, je te donnerai une bien belle somme !"
+    ],
+    "requires": [
+        { "title":"Tuer des slimes & récolter leur gélatine", "icon":":skull:" ,"number":5 },
+        { "title":"Tuer des rocks & récolter leur roche", "icon":":skull:" ,"number":5 },
+        { "title":"Tuer un monstre de la tour & récolter sa mousse", "icon":":skull:" ,"number":1 }
+    ],
+    "picture": "https://tenor.com/3qDB.gif",
+    "rewards": [
+        "12000 Zium",
+        "1 clé mystère"
+    ],
+    "choice":false
+}

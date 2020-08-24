@@ -1,0 +1,11 @@
+{
+    "title":"Gardes",
+    "command":"info garde",
+    "desc":"Le garde a pour fonction de protéger les citoyens des villes selon le niveau d'expérience qu'ils possèdent. Ils peuvent venir à être employés par les diverses institution publique voir privée de la ville. Comme la mairie, la banque ou même le palais écarlate si l'impératrice les en juge digne.",
+    "pic":"https://cdn.discordapp.com/attachments/591471293530898458/614943717295652874/d3fb03j-524a5ca0-59ec-423b-8530-2aa578c7f8681.png",
+    "détails":[
+        {"title":"P r é r e q u i s :","desc":"[ Affiliation C ]\nGarde des villes de Onesey et Eleygate ainsi que les diverses institution :\n\n~ Niveau 15 ou plus, ainsi que le titre Débrouillard.\n\n[ Affiliation B ]\nGarde de la ville de Pandora :\n~ Niveau 25 ou plus, ainsi que le titre Démon.\n\n[ Affiliation A ]\nGarde du Palais Ecarlate :\n~ Niveau 30 ou plus, mais également avoir au moins le rôle Héros ou Légende et un des rôles suivant- . .\n@| Titre | ~ > [       Légende       ]\n@| Titre | ~ > [     Pourfendeurs     ]\n@| Titre | ~ > [         Démon         ]\n@| Titre | ~ > [         Héros         ]\n​\n__Titre suprême:__ Par votre exploit, touchez un bonus de 500 ziums peu importe votre affiliation"},
+        {"title":"F o n c t i o n n e m e n t :","desc":"Le métier de garde marche avec accumulation et grade. Ainsi donc une personne ayant plusieurs titres gagnera bien plus qu'un simple titre débrouillard. Pour devenir garde il vous faudra pour la ville de Onesey et Eleygate il vous suffit d'allez à la marie et de remplir la tache attribuer. Pour Pandora il vous faudra affronter un garde de la ville.Pour les garde royaux il vous faudra vous rendre au palais et combattre l'adversaire que l'imperatrice vous dira."},
+        {"title":"S a l a i r e s :","desc":"[ Affiliation C ] ~ 500 :Zium: [ + 100 :Zium: Chaque Titre. ]\n\n[ Affiliation B ~ 750 :Zium: [ + 175 :Zium: Chaque Titre. ]\n\n[ Affiliation A ~ 1000 :Zium: [ + 250 :Zium: Chaque Titre. ]"}
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Pure Scale",
+    "command": "info pure scale",
+    "desc": "Pure Scale, des items d'une extrême rareté, elles possèdent une texture & surtout une apparence & texture écaillée, elles sont très résistante chose permettant à la création d'armure efficacement durable.",
+    "useTo": [
+        "|L'armure __**I g n y t**__ nécessite la ressource.\n|Pour plus d'informations ``=info ignyt``"
+    ],
+    "obtention": [
+        "|Le Pure Scale peut être obtenu après\n|un affrontement avec le boss __**S h y v a**__\n|pour plus d'informations ``=info shyva``"
+    ],
+    "image": "https://vignette.wikia.nocookie.net/shop-heroes/images/2/25/Dragon_Scale.png/revision/latest/scale-to-width-down/200?cb=20151202223016"
+}

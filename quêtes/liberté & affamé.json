@@ -1,0 +1,19 @@
+{
+    "title": "Liberté & affamé",
+    "command": "quête 7",
+    "desc" : "Vous regardiez le ciel d'un bleu d'azur, perdu très légèrement dans vos pensées quand soudainement votre tête percuta quelques choses. Il vous fallu au moins 5 secondes avant d'avoir le courage et la force d'ouvrir enfin les yeux, vous restez assez surpris en voyant un monstre, face à vous, à peine plus grand que votre main.Vous le regardez de haut en bas, curieux petit animal. Alors que vous étiez en train d'examiner cette bestiole, une femme viendra vers vous, l'air paniqué, il lui fallut quelques secondes avant de reprendre son souffle, elle venait probablement de courir.",
+    "dialog": [
+        "Je...ahh...excusez-moi ! C'est mon familier, on l'a appelé Berni ! Je suis désolée que par sa faute vous soyez tombé par terre, vous n'êtes pas blessé? Oof, cela me rassure . . A vrai dire, je dois vous parler de quelques choses qui me tracasse. En faite, dans le temps Berni courrait un peu partout, il s'amusait dehors à mes côtés mais depuis quelques temps, il reste dans le sol, à effrayer quelques personnes au hasard.",
+        "J'y ai longuement réfléchi, je me suis dit que si je lui présentais plusieurs petits plats en dehors de cette terre autour de lui, affamé il déciderait d'enfin se nourrir et je n'aurais qu'à reboucher ce trou. Ce sera comme avant, lui & moi passant du temps à l'extérieur. Je suis sûre que cette idée va fonctionner, je te fais confiance pour prendre les choses que je t'ai demandé, tu n'as pas intérêt à te tromper, c'est très important pour moi !"
+    ],
+    "requires": [
+        { "title":"Tête de Vilesang", "icon":":gear:" ,"number":3 },
+        { "title":"Tête de Croc Blanc", "icon":":gear:" ,"number":1 }
+    ],
+    "picture": "http://pa1.narvii.com/6790/8a0ba475708099ec839bc7e88ced02454c791d03_00.gif",
+    "rewards": [
+        "2 clés épiques",
+        "4000 Ziums"
+    ],
+    "choice":false
+}

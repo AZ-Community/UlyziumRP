@@ -1,0 +1,15 @@
+{
+    "title": "Gelury",
+    "command": "info gelury",
+    "desc": "La Gelury, une pierre précieuse également possédant des traits symbolisant les ténèbres les plus sombres de ce monde, la Gelury est une ressource semblant dépendre de énormément d'armure, comme ces confrères à vrai dire.",
+    "useTo": [
+        "|L'armure __**H y l u s**__ nécessite la ressource.\n|Pour plus d'informations ``=info hylus``",
+        "|L'armure __**L i g h t n i n g s**__ nécessite la ressource.\n|Pour plus d'informations ``=info lightnings``",
+        "|L'armure __**V a m p y r**__ nécessite la ressource.\n|Pour plus d'informations ``=info vampyr``",
+        "|L'armure __**B e l t r o n**__ nécessite la ressource.\n|Pour plus d'informations ``=info beltron``"
+    ],
+    "obtention": [
+        "|La Gelury peut être obtenue après un affrontement\n|contre le boss __**C o l o s s u s**__ pour plus\n|d'information ``=info colossus``"
+    ],
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/659d2be7-ccb3-42e6-8f81-6acb515e5aa5/d9ebzy7-8e13bc6f-3491-4b15-b607-d72035507594.jpg/v1/fill/w_900,h_1286,q_75,strp/tanzanite_002_by_zsoltkosa_d9ebzy7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4NiIsInBhdGgiOiJcL2ZcLzY1OWQyYmU3LWNjYjMtNDJlNi04ZjgxLTZhY2I1MTVlNWFhNVwvZDllYnp5Ny04ZTEzYmM2Zi0zNDkxLTRiMTUtYjYwNy1kNzIwMzU1MDc1OTQuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.yrQxE3q8-Zd_ttYJ3a45C2oIz-QPhgPPlw_oe2kCOqU"
+}

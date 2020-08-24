@@ -1,0 +1,15 @@
+{
+    "title": "Ambryum",
+    "command": "info ambryum",
+    "desc": "L'Ambryum, une ressource rentrant elle également dans la famille des fameuses pierreries précieuse que regorge notre monde, elle est l'une des plus demander lors de création d'armure, m'enfin elle n'est pas des plus rare.",
+    "useTo": [
+        "|L'armure __**H e s t r y a**__ nécessite la ressource.\n|Pour plus d'informations ``=info hestrya``",
+        "|L'armure __**I n f e r n o**__ nécessite la ressource.\n|Pour plus d'informations ``=info inferno``",
+        "|L'armure __**I g n y t**__ nécessite la ressource.\n|Pour plus d'informations ``=info ignyt``",
+        "|L'armure __**H y l u s**__ nécessite la ressource.\n|Pour plus d'informations ``=info hylus``"
+    ],
+    "obtention": [
+        "|L'Ambryum peut être obtenue après un affrontement\n|contre le boss C o l o s s u s pour plus\n|d'information =info colossus"
+    ],
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/659d2be7-ccb3-42e6-8f81-6acb515e5aa5/d9jkt0q-8161f54a-7734-4086-8c72-49b12201adca.jpg/v1/fill/w_1024,h_1365,q_75,strp/infinity_garnet_by_zsoltkosa_d9jkt0q-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM2NSIsInBhdGgiOiJcL2ZcLzY1OWQyYmU3LWNjYjMtNDJlNi04ZjgxLTZhY2I1MTVlNWFhNVwvZDlqa3QwcS04MTYxZjU0YS03NzM0LTQwODYtOGM3Mi00OWIxMjIwMWFkY2EuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.2TjNHSaPXOyaZwSZwat9ruoWEqhbn62CE1eo98NlBwM"
+}

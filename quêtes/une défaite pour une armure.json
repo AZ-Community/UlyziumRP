@@ -1,0 +1,22 @@
+{
+    "title": "Une défaite pour une armure",
+    "command": "quête 8",
+    "desc" : "Tu revenais d'un combat acharné contre un monstre, marchant à bout de force cherchant simplement à te reposer mais une femme viendra se mettre sous ton chemin en position de combat, tu la repousses poliment mais elle semblait déterminée à ne pas te laisser passer. Tu soupires, toi qui cherchait simplement du repos, ce n'était vraiment pas ton jour. Tu te mis face à la jeune femme, en position de combat, elle lança la première attaque mais au bout de quelques coups, la femme tomba au sol et se releva, acceptant sa défaite.",
+    "dialog": [
+        "Oh, j'ai perdu...Quelle tristesse! Je savais que tu étais très puissant mais pas à ce point. Tu remontes en mon estime, l'inconnu! Bon, j'accepte ma défaite...Tu m'as battu à plate couture, je l'avoue!",
+        "Bon, pour t'excuser, tout le monde sait qu'on ne frappe pas les femmes, même si je le méritais, he-he. Tu vas m'apporter plusieurs matériaux, me permettant de construire une armure. Je serais plus forte après! Je t'offrirais non seulement un objet magique mais aussi une belle somme, c'est suffisant non? Je suis encore désolée de t'avoir frappé, je voulais juste connaître ta force. Je ne suis pas déçu du tout.",
+        "Je deviendrais aussi forte que toi plus tard, tu verras ! Donc, note bien ça dans ta p'tite tête. Rapporte moi : 16 Lingots de bronze, 14 Lingots de fer,8 lingots d'argent, 5 Lingots en acier & 6 Fragments d'armures."
+    ],
+    "requires": [
+        { "title":"Lingot de bronze", "icon":":large_orange_diamond:" ,"number":16 },
+        { "title":"Lingot de fer", "icon":":large_orange_diamond:" ,"number":14 },
+        { "title":"Lingot d'argent", "icon":":large_orange_diamond:" ,"number":8 },
+        { "title":"Lingot d'acier", "icon":":large_orange_diamond:" ,"number":5 },
+        { "title":"Fragments d'armure", "icon":":Armor:" ,"number":6 }
+    ],
+    "picture": "https://gfycat.com/distantlinedauklet",
+    "rewards": [
+        "Ticket reset stats ! [Vous permet de mettre à Zéro vos statistiques tout en gardant vos points pour les restitués]"
+    ],
+    "choice":false
+}

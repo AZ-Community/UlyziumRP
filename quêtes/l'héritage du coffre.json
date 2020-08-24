@@ -1,0 +1,22 @@
+{
+    "title": "L'héritage du coffre",
+    "command": "quête 1",
+    "desc" : "Tu marchais d'un pas lent, cherchant simplement à prendre l'air quand soudainement tu entendis quelqu'un rugir, c'était en fait un vieillard un peu saoul & à bout de force. Attristé par l'état de cette vieille personne, tu t'en approcheras légèrement, gardant quelques mètres de distance, et la personne âgée lèvera alors sa tête vers toi, tenant un coffre en main, qui semblait verrouillé.",
+    "dialog": [
+        "Psst p'tit, rapproche-toi encore un peu, tu sais, mes jambes ne sont plus de toutes jeunesses.Voilà, comme ça, merci beaucoup. Tu vois ce coffre? C'est ma mère qui l'a reçu de ma grand mère et de ma grand mère à mon arrière grand mère, bref... Ce coffre verrouillé, s'offre encore et encore.",
+        "J'aimerais en découvrir le contenu mais jamais ma mère ni la mère de ma ...bref n'a réussi à l'ouvrir, il y a une note, j'ai plus une très bonne vue, j'pense c'est une note permettant de ...heuuu, attend j'ai oublié ma tête, Martine mon verre d'eau ! Voilà, merci ma douce, bon où en étais-je ? Oui-Oui le coffre ! Elle est belle ma femme, non? Comment ça je me perds dans mes pensées ? Ah, oui c'est vrai. Excuse-moi. Donc le coffre...oui, je pense pour l'ouvrir, il faut que tu m'apportes les choses écrites sur ce papier, bon...",
+        "Dépêche-toi, je veux savoir le contenu de ce coffret avant d'user mes dernières forces, je suis plus de grande durée, je te fais confiance pour apporter tout cela, et dépêche toi ! Hé Martine, devine quoi ?! Quelqu'un a enfin accepté de m'aider à savoir le contenu de ce coffret, enfin des gamins bien élevés!"
+    ],
+    "requires": [
+        { "title":"Ecailles de Requyn différent", "icon":":gear:" ,"number":2 },
+        { "title":"Chaîne de Déchu", "icon":":gear:" ,"number":1 },
+        { "title":"ECorne à la couleur d'un Sakura", "icon":":gear:" ,"number":1 }
+    ],
+    "picture": "https://i.imgur.com/cwiqHhM.gif",
+    "rewards": [
+        "Pendentif mystique [+700 HP]",
+        "Bracelet mystique [+350 ATK]",
+        "Bague mystique [+350 HP & +175 ATK]"
+    ],
+    "choice":true
+}

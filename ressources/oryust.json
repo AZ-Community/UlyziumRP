@@ -1,0 +1,14 @@
+{
+    "title": "Oryust",
+    "command": "info oryust",
+    "desc": "C'est une pierre précieuse assez rare, elle est utilisée pour la confection de plusieurs armures et ne se récupère que sur un monstre de donjon. Elle est reconnaissable par sa couleur ambre et sa légère opacité.",
+    "useTo": [
+        "|L'armure __**B e l t r o n**__ nécessite la ressource.\n|Pour plus d'informations ``=info beltron``",
+        "|L'armure __**I n f e r n o**__ nécessite la ressource.\n|Pour plus d'informations ``=info inferno``",
+        "|L'armure __**I g n y t**__ nécessite la ressource.\n|Pour plus d'informations ``=info ignyt``"
+    ],
+    "obtention": [
+        "|L'Oryust peut être obtenu après un affrontement\n|contre le boss __**C o l o s s u s**__ pour plus\n|d'information ``=info colossus``"
+    ],
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/659d2be7-ccb3-42e6-8f81-6acb515e5aa5/d9ddyia-37fbfe50-f6e2-4c19-b4f3-ec8837823dbc.jpg/v1/fill/w_1024,h_1463,q_75,strp/citrine_004_by_zsoltkosa_d9ddyia-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ2MyIsInBhdGgiOiJcL2ZcLzY1OWQyYmU3LWNjYjMtNDJlNi04ZjgxLTZhY2I1MTVlNWFhNVwvZDlkZHlpYS0zN2ZiZmU1MC1mNmUyLTRjMTktYjRmMy1lYzg4Mzc4MjNkYmMuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.1L5V-iBZdBsltBYm39fcU0Og9h1f4KkWBEGgEITUDqI"
+}

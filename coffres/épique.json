@@ -1,0 +1,14 @@
+{
+    "title":"É p i q u e",
+    "rewards":[
+        {"title":"[ ``Zium-Pure`` ]", "amount":1, "prob":0},
+        {"title":"Consommable :potion2: [ Potion-Puissance ] ``E`` +5% :boom:", "amount":5, "prob":0.18},
+        {"title":"Consommable :potion1: [Potion-Résistance ] ``E`` +5% :shield:", "amount":5, "prob":0.32},
+        {"title":"Consommable :test_tube: [ Potion-Santé ] ``E`` +100 :heart_exclamation:", "amount":5, "prob":0.46},
+        {"title":"Consommable :petri_dish: [Potion-Vengeance ] ``E`` 5% :hotsprings:", "amount":5, "prob":0.60},
+        {"title":":green_book: [ Livre T1 ]", "amount":1, "prob":0.74},
+        {"title":":Armor: __**Armure**__ ``Cuir`` [+200 :shield:]", "amount":1, "prob":0.84},
+        {"title":"[ :key2: ] Clé-Légendaire :orange_circle:", "amount":2, "prob":0.92},
+        {"title":"[ :key2: ] Clé-Mythique :yellow_circle:", "amount":1, "prob":0.97}
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "Cleryum",
+    "command": "info cleryum",
+    "desc": "Le Cleryum est une pierre précieuse rare, elle est requise pour fabriquer quelques armures et ne se récupère que sur un boss de donjon. Elle est reconnaissable à sa teinture entremêlant rose, violet et bleu dont l'opacité est proche d'une banale pierre.",
+    "useTo": [
+        "|L'armure __**H e s t r y a**__ nécessite la ressource.\n|Pour plus d'informations ``=info hestrya``",
+        "|L'armure __**L i g h t i n g s**__ nécessite la ressource.\n|Pour plus d'informations ``=info lightings``"
+    ],
+    "obtention": [
+        "|Le Cleryum peut être obtenu après un affrontement\n|contre le boss __**C o l o s s u s**__ pour plus\n|d'information ``=info colossus``"
+    ],
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/659d2be7-ccb3-42e6-8f81-6acb515e5aa5/d9doaxx-2ca66e51-8f85-4ea6-9b21-a3b73d9f64e9.jpg/v1/fill/w_1024,h_1463,q_75,strp/sapphire_002_by_zsoltkosa_d9doaxx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ2MyIsInBhdGgiOiJcL2ZcLzY1OWQyYmU3LWNjYjMtNDJlNi04ZjgxLTZhY2I1MTVlNWFhNVwvZDlkb2F4eC0yY2E2NmU1MS04Zjg1LTRlYTYtOWIyMS1hM2I3M2Q5ZjY0ZTkuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.yByJ4AqIOdRBzXJ4cqaTE-PQoMkk8YGeBWocc-tp5os"
+}

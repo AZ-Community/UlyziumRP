@@ -1,0 +1,12 @@
+{
+    "title": "Plume d'Syx",
+    "command": "info plume d'syx",
+    "desc": "Une plume extrêmement rare, ou les chances d'en obtenir sont très rarissime, les plumes de Syx possède de nombreuses propriétés permettant la création d'armure très efficace, il faut savoir qu'une plume serait l'équivalent de 17 Zium pure :Zium_Pure: chose très rare.",
+    "useTo": [
+        "|L'armure __**E l y s i a n**__ nécessite la ressource.\n|Pour plus d'informations ``=info elysian``"
+    ],
+    "obtention": [
+        "|Les plumes d'Syx peuvent être obtenues après\n|un affrontement avec le boss __**S h y v a**__\n|pour plus d'informations ``=info shyva``"
+    ],
+    "image": "https://cdn2.iconfinder.com/data/icons/feathers-2/50/52-512.png"
+}

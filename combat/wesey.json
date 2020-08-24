@@ -1,0 +1,42 @@
+[
+	{ 
+		"title": "cizamite",
+		"prob": 0
+    },
+    { 
+		"title": "colosse",
+		"prob": 0.1
+    },
+    { 
+		"title": "craniwings",
+		"prob": 0.2
+    },
+    { 
+		"title": "gobelink",
+		"prob": 0.3
+    },
+    { 
+		"title": "hydre",
+		"prob": 0.4
+	},
+	{ 
+		"title": "kitsu",
+		"prob": 0.5
+	},
+	{ 
+		"title": "loupgarou",
+		"prob": 0.6
+	},
+	{ 
+		"title": "saltergob",
+		"prob": 0.7
+	},
+	{ 
+		"title": "undead",
+		"prob": 0.8
+	},
+	{ 
+		"title": "yian-rata",
+		"prob": 0.9
+	}
+]

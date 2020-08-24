@@ -1,0 +1,14 @@
+{
+    "title": "Zuryth",
+    "command": "info zuryth",
+    "desc": "Le Zuryth est une pierre précieuse assez rare, elle sert dans les plans de fabrication de plusieurs armures et elle ne se récupère que sur un boss de donjon. Elle est reconnaissable de par sa couleur or et sa forte opacité.",
+    "useTo": [
+        "|L'armure __**H e s t r y a**__ nécessite la ressource.\n|Pour plus d'informations ``=info hestrya``",
+        "|L'armure __**T e n e b r i s**__ nécessite la ressource.\n|Pour plus d'informations ``=info tenebris``",
+        "|L'armure __**E l y s i a n**__ nécessite la ressource.\n|Pour plus d'informations ``=info elysian``"
+    ],
+    "obtention": [
+        "|Le Zuryth peut être obtenu après un affrontement\n|contre le boss __**S h y v a**__ pour plus\n|d'information ``=info shyva``"
+    ],
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/659d2be7-ccb3-42e6-8f81-6acb515e5aa5/d9jkso3-2539ac66-cbeb-483d-b4d1-6a12ff402f34.jpg/v1/fill/w_1024,h_1365,q_75,strp/infinity_citrine_by_zsoltkosa_d9jkso3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM2NSIsInBhdGgiOiJcL2ZcLzY1OWQyYmU3LWNjYjMtNDJlNi04ZjgxLTZhY2I1MTVlNWFhNVwvZDlqa3NvMy0yNTM5YWM2Ni1jYmViLTQ4M2QtYjRkMS02YTEyZmY0MDJmMzQuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.zxC-jMv0Dhx0e0b2GRDq9jCgOYAnfWfWkqutbPVOsFs"
+}

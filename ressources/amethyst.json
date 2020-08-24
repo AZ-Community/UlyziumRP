@@ -1,0 +1,14 @@
+{
+    "title": "Amethyst",
+    "command": "info amethyst",
+    "desc": "L'Amethyst est une pierre précieuse assez rare, elle est utilisée pour la création de quelques armures et elle peut être récupérée sur un boss de donjon ainsi qu'être minée à la tour. Elle est reconnaissable par sa couleur rosâtre et sa légère transparence.",
+    "useTo": [
+        "|L'armure __**V a m p y r**__ nécessite la ressource.\n|Pour plus d'informations ``=info vampyr``",
+        "|L'armure __**L i g h t i n g s**__ nécessite la ressource.\n|Pour plus d'informations ``=info lightings``"
+    ],
+    "obtention": [
+        "|L'Amethyst peut être obtenu après un affrontement\n|contre le boss __**C o l o s s u s**__ pour plus\n|d'information ``=info colossus``",
+        "|De même, elle peut être minée dans la tour au\n|palier surnommé __**C r i m s o n**__."
+    ],
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/659d2be7-ccb3-42e6-8f81-6acb515e5aa5/d9jkshg-2accba5e-34cf-469d-9657-21226e19bc18.jpg/v1/fill/w_1024,h_1365,q_75,strp/infinity_amethyst_by_zsoltkosa_d9jkshg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM2NSIsInBhdGgiOiJcL2ZcLzY1OWQyYmU3LWNjYjMtNDJlNi04ZjgxLTZhY2I1MTVlNWFhNVwvZDlqa3NoZy0yYWNjYmE1ZS0zNGNmLTQ2OWQtOTY1Ny0yMTIyNmUxOWJjMTguanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.hBaWTPcDFX6rM-4d-3BEDuofD-VZw7cRGlfz1ieRNrU"
+}

@@ -1,0 +1,21 @@
+{
+    "title": "La potion anti-cauchemar",
+    "command": "quête 2",
+    "desc" : "La nuit était tombée depuis bien longtemps. Soudainement, alors que vous profitiez de la vue étoilée, vous sursautez en entendant le cri aigu d'une femme. Il vous faut quelques instants avant de vous reprendre et de prendre la décision de suivre ce cri. Vous vous arrêtez devant une bâtisse tout à fait banale, et cela vous rassure. Vous frappez plusieurs fois à la porte jusqu'à ce qu'une vieille dame vous ouvre. Elle vous regarde quelques secondes, et vous lui demandez d'où provient ce cri et si la personne l’ayant poussée va bien. Elle décide de commencer son récit, le regard attristé, la voix assez faible.",
+    "dialog": [
+        "Oh, je vous en prie...Entrez, je vais vous préparez un bon thé chaud. De nos jours, les jeunes ne boivent plus énormément de thé, tu aimes ça, j'espère ? Oh, tant mieux...Je fais d'excellents thés, tu verras. Bon, voilà assieds-toi, prend ta tasse et écoute moi. Les cris que tu as entendus, c'est ma fille. Elle s'appelle Juliette et elle dort dans l'étage au-dessus.",
+        "Depuis la mort de mon mari, mort il y a deux ans et demi, elle se réveille subitement la nuit et cri de toutes ses forces, elle se rendort alors subitement juste après, bon viens voir...Tu la vois? Elle dort comme une princesse à présent. J'ai besoin de ton aide, je n'aime pas la voir comme cela, certains de mes voisins m'ont conseillés de lui préparer une boisson anti-cauchemar.",
+        "Bon, j'ai encore tout l'argent de mon mari, si tu aides ma fille à retrouver un sommeil normal, je te promet de te donner toute cette somme, ce n'est pas grand chose mais je suis sûre que ça te suffira, après tout tu fais une bonne action. Je te présenterai à ma fille plus tard, ça lui fera du bien de retrouver un sommeil normal et de se faire de la compagnie. Bon, je te remercie de vouloir m'aider. Ramène-moi tout ceci, je pourrais lui préparer une bonne soupe, elle ne remarquera même pas que c'est une potion en réalité, aha!"
+    ],
+    "requires": [
+        { "title":"Morceaux de pain", "icon":":bread:" ,"number":7 },
+        { "title":"Gélatines de slime différent", "icon":":gear:" ,"number":5 },
+        { "title":"Pique d'Emyr différent", "icon":":gear:" ,"number":8 }
+    ],
+    "picture": "https://cdn.4archive.org/img/V3ffjYx.gif",
+    "rewards": [
+        "Potion de maîtrise [+2 Dans les maîtrise défensive & offensive durant 24h]",
+        "6000 :Zium:"
+    ],
+    "choice":false
+}
